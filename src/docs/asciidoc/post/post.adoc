@@ -38,6 +38,8 @@
 Алгоритм работы метода приведен на диаграмме.
 
 [plantuml, post, png]
+
+xref:../index.adoc[Назад]
 ----
 include::post.puml[]
 ----
